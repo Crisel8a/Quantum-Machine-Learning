@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <strong>Participamos en las Jornadas Académicas de Didáctica de las Ciencias 2023 con un trabajo sobre machine learning cuántico.</strong><br>
+  <strong>Una introducción al machine learning cuántico.</strong><br>
   @IPN-ESFM-Crisel Escalante, Julio Hernández 
 </p>
 
@@ -25,7 +25,7 @@
 </p>
 
 
-**Usamos videos y libros muy bomnitos.**
+**Participamos en las Jornadas Académicas de Didáctica de las Ciencias 2023 con un trabajo de divulgación sobre machine learning cuántico.**
 
 ---
 ### ✅ Temario
